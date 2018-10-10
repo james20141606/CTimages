@@ -1,3 +1,6 @@
+Also see my [website page](https://www.cmwonderland.com/blog/2018/08/16/95_medical_image_project/)
+
+
 This is a project work in pattern recognition course.
 Professor Xuegong Zhang instruct us to study and learn how to analyze 3D CT images. Through this project I have learned multiple image processing tools including opencv, ndimage and scikit-image. 
 ## deep learning methods
